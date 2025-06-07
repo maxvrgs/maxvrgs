@@ -47,6 +47,6 @@ Desde páginas web hasta robots con chatarra electrónica… si se puede inventa
 
 ### 📫 ¿Quieres conectar?
 
-- 📨 Puedes contactarme por GitHub Issues o por [correo](mx.vargas22@gmail.com)
+- 📨 Puedes contactarme por GitHub Issues o por correo: <u>mx.vargas22@gmail.com</u>
 
 ---
