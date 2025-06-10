@@ -1,7 +1,7 @@
 ## 👋 ¡Hola! Soy Max
 
-Un apasionado creador digital. Me encanta aprender, programar y construir cosas únicas con tecnología.  
-Desde páginas web hasta robots con chatarra electrónica… si se puede inventar, ¡quiero intentarlo! ⚡🤖
+Me encanta aprender, programar y construir cosas únicas con tecnología.  
+Desde páginas web hasta robots con electrónica reciclada si se puede inventar, ¡quiero intentarlo! ⚡🤖
 
 ---
 
@@ -30,7 +30,7 @@ Desde páginas web hasta robots con chatarra electrónica… si se puede inventa
 ### 📦 Algunos proyectos personales
 
 - 🎮 Juegos en Unity y GameMaker
-- 📊 App web para **control de gastos personales**
+- 📊 App web para control de gastos personales
 - 💌 Tarjeta de cumpleaños virtual interactiva
 - 🚗 Página web para distribuidora de repuestos
 - 🧠 Proyectos experimentales con electrónica, sensores y Raspberry Pi
