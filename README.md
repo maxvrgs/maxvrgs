@@ -1,11 +1,11 @@
-## 👋 ¡Hola! Soy Max
+##  ¡Hola! Soy Max
 
 Me encanta aprender, programar y construir cosas únicas con tecnología.  
-Desde páginas web hasta robots con electrónica reciclada si se puede inventar, ¡quiero intentarlo! ⚡🤖
+Desde páginas web hasta robots.
 
 ---
 
-### 🛠️ Tecnologías con las que me gusta trabajar
+###  Tecnologías con las que me gusta trabajar
 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -18,7 +18,7 @@ Desde páginas web hasta robots con electrónica reciclada si se puede inventar,
 
 ---
 
-### 🌱 Actualmente estoy aprendiendo
+###  Actualmente estoy aprendiendo
 
 - 🐍 Python
 - ⚡ JavaScript
@@ -27,26 +27,24 @@ Desde páginas web hasta robots con electrónica reciclada si se puede inventar,
 
 ---
 
-### 📦 Algunos proyectos personales
+###  Algunos proyectos personales
 
 - 🎮 Juegos en Unity y GameMaker
 - 📊 App web para control de gastos personales
-- 💌 Tarjeta de cumpleaños virtual interactiva
 - 🚗 Página web para distribuidora de repuestos
 - 🧠 Proyectos experimentales con electrónica, sensores y Raspberry Pi
 
 ---
 
-### 🎨 Curiosidades sobre mí
+###  Curiosidades sobre mí
 
 - Me encanta la **electrónica y la robótica**, especialmente con Raspberry Pi, Arduino y sensores.
-- Disfruto **arreglar cosas para reutilizar basura electrónica** ♻️
 - Me gusta hacer **experimentos y proyectos** con hardware, software, sensores y todo lo que tenga cables.
-- Hablo **español**, **inglés** y **portugués** 🌍
+- Hablo **español**, **inglés** y **portugués** 
 ---
 
-### 📫 ¿Quieres conectar?
+### 📫 ¿Quieres Contactar?
 
-- 📨 Puedes contactarme por GitHub Issues o por correo: <u>mx.vargas22@gmail.com</u>
+- 📨 Puedes contactarme por correo: <u>mx.vargas22@gmail.com</u>
 
 ---
